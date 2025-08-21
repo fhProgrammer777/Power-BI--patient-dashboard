@@ -1,4 +1,4 @@
-# Patient Satisfaction Data Analysis
+# Patient Data Analysis
 
 This project analyzes patient visit data (9,216 rows, 11 columns) from a healthcare facility.  
 The focus is on patient demographics, wait times, satisfaction scores, and referral types.
